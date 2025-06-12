@@ -112,17 +112,3 @@ You can install them all using:
 ```bash
 pip install -r requirements.txt
 ```
-
-## 🧑‍💻 Contributors
-
-- Vaishu (Project Lead)
-- [YourName] (Model Development)
-- [Optional Contributor]
-
-## 📄 License
-
-This project is open-source under the [MIT License](LICENSE).
-
----
-
-Made with ❤️ for emotion-aware computing!
