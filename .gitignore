@@ -1,0 +1,24 @@
+# Ignore virtual environments
+emotion_env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore large model files
+*.h5
+*.keras
+*.pickle
+
+# Ignore uploaded files and datasets
+uploads/
+*.csv
+ravdess/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore OS / editor-specific files
+.DS_Store
+Thumbs.db
+*.swp

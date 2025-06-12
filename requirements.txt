@@ -1,0 +1,8 @@
+Flask
+speechrecognition
+deep-translator
+transformers
+torch
+torchaudio
+librosa
+ffmpeg-python
