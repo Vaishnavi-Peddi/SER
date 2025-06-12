@@ -45,8 +45,8 @@ speech-emotion-recognition/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/speech-emotion-recognition.git
-   cd speech-emotion-recognition
+   git clone https://github.com/Vaishnavi-Peddi/SER.git
+   cd SER
    ```
 
 2. **Create a virtual environment**
