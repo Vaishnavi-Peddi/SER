@@ -40,6 +40,18 @@ SER/
 ├── requirements.txt            # Required Python packages
 └── README.md                   # Project documentation
 ```
+## 🎵 Dataset: RAVDESS
+
+This project uses the **RAVDESS (Ryerson Audio-Visual Database of Emotional Speech and Song)** dataset.
+
+### 📥 How to Download RAVDESS from Kaggle
+
+1. Go to the dataset page on Kaggle:
+   👉 https://www.kaggle.com/datasets/uwrfkaggler/ravdess-emotional-speech-audio
+
+2. Click on **"Download"** (you must be signed in to Kaggle).
+
+3. Extract the ZIP file and place the `ravdess` folder in your project directory:
 
 ## 🔧 Setup Instructions
 
