@@ -27,7 +27,7 @@ This project is a **Speech Emotion Recognition (SER)** system that identifies hu
 ## 📁 Project Structure
 
 ```
-speech-emotion-recognition/
+SER/
 │
 ├── app.py                       # Flask server
 ├── prediction_model.py         # Audio emotion model (CNN+LSTM)
